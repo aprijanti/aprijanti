@@ -10,4 +10,4 @@ I am a tech enthusiats currently learning about website programming.
 ## Connect with Me
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/aprijanti)
 &nbsp;
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/aprijanti/))
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aprijanti/)
