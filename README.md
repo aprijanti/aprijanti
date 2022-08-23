@@ -1,10 +1,10 @@
 ## Hi there, I'm Aprie 👋
 
 I am a tech enthusiats currently learning about website programming.
-- 🔭 Learning: Front-end Development, Responsive Web Design, ReactJS, and Redux
-- 🌱 Languange: JavaScript
-- 👯 Interested in: project open source, freelance and part time job
-- 📫 aprie.janti@gmail.com
+- learning: Front-end Development, Responsive Web Design, ReactJS, and Redux
+- languange: JavaScript
+- interested in: project open source, freelance and part time job
+- aprie.janti@gmail.com
 
 
 ## Connect with Me
